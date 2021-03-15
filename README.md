@@ -8,7 +8,7 @@
 
 **Pages link**
 
-- [Link to the project in Pages](https://thinklikeadesigner.github.io/web_project_8/)
+- [Link to the project in Pages](https://thinklikeadesigner.github.io/wb8historic/)
 
 **Description and Functionality**
 
